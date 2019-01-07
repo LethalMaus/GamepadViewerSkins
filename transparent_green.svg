@@ -49,7 +49,7 @@
    id="style463">
 	.st0{fill:none;}
 	.st1{fill:none;}
-	.st2{fill:none;}
+	.st2{fill:#FFFFFF;}
 	.st3{fill:#E6E6E6;}
 	.st4{fill:#064c39;}
 	.st5{fill:none;}
@@ -57,7 +57,7 @@
 	.st7{opacity:0.12;}
 	.st8{fill:url(#SVGID_5_);}
 	.st9{fill:#1F1F1F;}
-	.st10{fill:#129974;}
+	.st10{fill:#064c39;}
 	.st11{fill:#30f2be;}
 	.st12{fill:#2C2C2C;}
 	.st13{fill:#222222;}
@@ -71,16 +71,20 @@
 	.st21{opacity:8.000000e-002;fill:url(#SVGID_6_);enable-background:new    ;}
 	.st22{opacity:0.22;enable-background:new    ;}
 	.st23{opacity:8.000000e-002;fill:url(#SVGID_7_);enable-background:new    ;}
-	.st24{opacity:0.25;enable-background:new    ;}
+	.st24{opacity:0.55;enable-background:new    ;}
 	.st25{fill:#0B0B0F;}
 	.st26{opacity:0.2;}
 	.st27{fill:url(#SVGID_8_);}
-	.st28{opacity:8.000000e-002;}
+	.st28{}
 	.st29{display:none;}
 	.st30{display:inline;}
 	.st31{fill:none;}
 	.st32{fill:none;}
 	.st33{display:inline;opacity:8.000000e-002;}
+	.st106{fill:#064c39;opacity:0.2;}
+	.st110{fill:#129974;opacity:0.2;}
+	.st111{fill:#30f2be;opacity:0.2;}
+	.st206{fill:#064c39;opacity:0.5;}
 </style>
 <pattern
    x="-556"
@@ -341,7 +345,7 @@
 				<g
    id="g596">
 					<path
-   class="st6"
+   class="st106"
    d="M-25.6,365.4c0-1-0.8-1.9-1.9-1.9H-153l0,0h-125.6c-1,0-1.9,0.8-1.9,1.9v6v123.2c0,8.6,7,15.6,15.6,15.6       H-153l0,0h111.9c8.6,0,15.6-7,15.6-15.6V371.5L-25.6,365.4z"
    id="path589" />
 					<g
@@ -361,7 +365,7 @@
 					</g>
 				</g>
 				<circle
-   class="st6"
+   class="st206"
    cx="96.3"
    cy="485.9"
    r="94.3"
@@ -369,7 +373,7 @@
 				<g
    id="g610">
 					<circle
-   class="st6"
+   class="st206"
    cx="-402.3"
    cy="485.9"
    r="94.3"
@@ -862,13 +866,13 @@
 	<g
    id="g835">
 		<path
-   class="st10"
+   class="st110"
    d="M-21.2,369.1c-0.4-3.2-3.3-5.6-6.5-5.6l0,0H-153l0,0h-125.3l0,0c-3.2,0-6.1,2.3-6.5,5.6    c-0.1,0.7-0.1,1.4-0.1,2.1v127.4c0,8.9,7.2,16.1,16.1,16.1H-153l0,0h115.8c8.9,0,16.1-7.2,16.1-16.1V371.2    C-21,370.5-21.1,369.8-21.2,369.1z"
    id="path824" />
 		<g
    id="g833">
 			<path
-   class="st11"
+   class="st111"
    d="M-25.6,365.4c0-1-0.8-1.9-1.9-1.9H-153l0,0h-125.6c-1,0-1.9,0.8-1.9,1.9v6v123.2c0,8.6,7,15.6,15.6,15.6     H-153l0,0h111.9c8.6,0,15.6-7,15.6-15.6V371.5L-25.6,365.4z"
    id="path826" />
 			<g
