@@ -1,0 +1,7 @@
+/* Change SVGs */
+.controller.ds4 {
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent_green.svg);
+}
+.controller.ds4.white {
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent_green.svg);
+}
