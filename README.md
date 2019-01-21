@@ -2,7 +2,7 @@
 
 Some custom skins for gamepadviewer.com
 
-Rather than changing everything per CSS, the SVGs were changed for more control over cutomization. Some comments were added to the SVGs that refer to what one is changing.
+Rather than changing everything per CSS, the SVGs were changed for more control over customization. Some comments were added to the SVGs that refer to what is being changed.
 
 ---
 
@@ -16,7 +16,7 @@ Rather than changing everything per CSS, the SVGs were changed for more control 
 
 If you would like me to do a style, just let me know.
 
-[Contact me on Discord](https://discord.gg/asZsz2F)
+[Contact me on Discord!](https://discord.gg/asZsz2F)
 
 ---
 
@@ -24,4 +24,4 @@ If you would like me to do a style, just let me know.
 
 All donations are welcome, but not expected. Thank you
 
-[Donate](https://paypal.me/JamesCullimore/5,00)
+[Donate!](https://paypal.me/JamesCullimore/5,00)
