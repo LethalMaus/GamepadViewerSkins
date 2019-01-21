@@ -1,5 +1,4 @@
 # GamepadViewerSkins
----
 
 Some custom skins for gamepadviewer.com
 
@@ -13,11 +12,15 @@ Rather than changing everything per CSS, the SVGs were changed for more control 
 
 ---
 
+## Contact
+
 If you would like me to do a style, just let me know.
 
 [Contact me on Discord](https://discord.gg/asZsz2F)
 
 ---
+
+## Donations
 
 All donations are welcome, but not expected. Thank you
 
