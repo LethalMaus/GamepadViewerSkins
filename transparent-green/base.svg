@@ -50,18 +50,18 @@
 	.st0{fill:none;}
 	.st1{fill:none;}
 	.st2{fill:#FFFFFF;}
-	/* Stick Inner Ring */
+	<!-- Stick Inner Ring -->
 	.st3{fill:#E6E6E6; opcaity:0.1;}
-	/* Stick Outer Ring & Controller Outline */
+	<!-- Stick Outer Ring & Controller Outline -->
 	.st4{fill:#064c39; opacity:0.5;}
 	.st5{fill:none;}
 	.st6{fill:#064c39;}
 	.st7{opacity:0.12;}
 	.st8{fill:url(#SVGID_5_);}
 	.st9{fill:#1F1F1F;}
-	/* Stick Inner Circle */
+	<!-- Stick Inner Circle -->
 	.st10{fill:#064c39;}
-	/* DPad */
+	<!-- DPad -->
 	.st11{fill:#30f2be;}
 	.st12{fill:#2C2C2C;}
 	.st13{fill:#222222;}
