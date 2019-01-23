@@ -25,11 +25,11 @@
 .ds4 .back, .ds4 .start {
     background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/start.svgz);
 }
-
+/*
 .ds4 .button {
     background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/face.svgz);
 }
-
+*/
 .ds4 .stick {
     background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/sticks.svgz);
 }
