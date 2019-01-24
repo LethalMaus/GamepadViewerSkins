@@ -51,8 +51,8 @@
 	.st1{fill:none;}
 	.st2{fill:#FFFFFF;}
 	<!-- Stick Inner Ring -->
-	.st3{fill:#E6E6E6; opcaity:0.1;}
-	<!-- Stick Outer Ring & Controller Outline -->
+	.st3{fill:#E6E6E6; opacity:0.3;}
+	<!-- Stick Stick Outer Ring Shadow & Controller Outline -->
 	.st4{fill:#064c39; opacity:0.5;}
 	.st5{fill:none;}
 	.st6{fill:#064c39;}
@@ -372,7 +372,7 @@
    class="st206"
    cx="96.3"
    cy="485.9"
-   r="94.3"
+   r="91"
    id="circle598" />
 				<g
    id="g610">
@@ -380,7 +380,7 @@
    class="st206"
    cx="-402.3"
    cy="485.9"
-   r="94.3"
+   r="91"
    id="circle600" />
 					<path
    class="st9"

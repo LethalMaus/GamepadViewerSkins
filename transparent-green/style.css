@@ -25,7 +25,7 @@
 .ds4 .back, .ds4 .start {
     background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/start.svgz);
 }
-/*
+/* This is causing all buttons to be the same...
 .ds4 .button {
     background: url(https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/face.svgz);
 }
