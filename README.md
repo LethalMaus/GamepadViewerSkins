@@ -1,6 +1,6 @@
 # GamepadViewerSkins
 
-![Controller Example](https://github.com/LethalMaus/GamepadViewerSkins/blob/master/transparent-green/Controller.png "Green & Copper")
+![Controller Example](https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/Controller.png "Green & Copper")
 
 Some custom skins for gamepadviewer.com
 
