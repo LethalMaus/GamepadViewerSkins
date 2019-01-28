@@ -1,5 +1,7 @@
 # GamepadViewerSkins
 
+![Controller Example](https://github.com/LethalMaus/GamepadViewerSkins/blob/master/transparent-green/Controller.png "Green & Copper")
+
 Some custom skins for gamepadviewer.com
 
 Rather than changing everything per CSS, the SVGs were changed for more control over customization. Some comments were added to the SVGs that refer to what is being changed.
