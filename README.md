@@ -16,6 +16,13 @@ Rather than changing everything per CSS, the SVGs were changed for more control 
 
 Used by: [LethalMaus](https://twitch.tv/lethalmaus "Twitch")
 
+<img src="https://lethalmaus.github.io/GamepadViewerSkins/jjegel-unique/Controller.png" align="left" height="80">
+<img src="https://lethalmaus.github.io/GamepadViewerSkins/jjegel/Controller.png" align="left" height="80">
+
+### [jjegel-unique](https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2Fjjegel-unique%2Fstyle.css "GamepadViewer.com") & [jjegel](https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2Fjjegel%2Fstyle.css "GamepadViewer.com")
+
+Used by: [jjegel](https://twitch.tv/jjegel "Twitch")
+
 ---
 
 ## Contact
