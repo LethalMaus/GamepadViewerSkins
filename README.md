@@ -10,7 +10,11 @@ Rather than changing everything per CSS, the SVGs were changed for more control 
 
 ## Skins:
 
-[(Transparent) Green & Copper](https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2Ftransparent-green%2Fstyle.css "GamepadViewer.com")
+<img src="https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/Controller.png" align="left" height="80">
+
+### [(Transparent) Green & Copper](https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2Ftransparent-green%2Fstyle.css "GamepadViewer.com")
+
+Used by: [LethalMaus](https://twitch.tv/lethalmaus "Twitch")
 
 ---
 
