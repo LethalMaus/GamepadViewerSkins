@@ -26,7 +26,7 @@ Used by: [jjegel](https://twitch.tv/jjegel "Twitch")
 <img src="https://lethalmaus.github.io/GamepadViewerSkins/xJoshwx-unique/Controller.png" align="left" height="80">
 <img src="https://lethalmaus.github.io/GamepadViewerSkins/xJoshwx/Controller.png" align="left" height="80">
 
-### [xJoshwx-unique](https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2FxJoshwx-unique%2Fstyle.css "GamepadViewer.com") & [jjegel](https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2FxJoshwx%2Fstyle.css "GamepadViewer.com")
+### [xJoshwx-unique](https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2FxJoshwx-unique%2Fstyle.css "GamepadViewer.com") & [xJoshwx](https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2FxJoshwx%2Fstyle.css "GamepadViewer.com")
 
 Used by: [xJoshwx](https://twitch.tv/xJoshwx "Twitch")
 
