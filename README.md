@@ -44,7 +44,9 @@ Rather than changing everything per CSS, the SVGs were changed for more control 
 
 If you would like me to do a style, just let me know.
 
-[Contact me on Discord!](https://discord.gg/asZsz2F)
+<p align="center">
+  <a href="https://discord.gg/asZsz2F"><b>Contact me on Discord!</b></a>
+</p>
 
 ---
 
@@ -52,4 +54,6 @@ If you would like me to do a style, just let me know.
 
 All donations are welcome, but not expected. Thank you
 
-[Donate!](https://paypal.me/JamesCullimore/5,00)
+<p align="center">
+  <a href="https://paypal.me/JamesCullimore/5,00"><b>Donate!</b></a>
+</p>
