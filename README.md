@@ -1,6 +1,8 @@
 # GamepadViewerSkins
 
-![Controller Example](https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/Controller.png "Green & Copper")
+<p align="center">
+  <img src="https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/Controller.png"><br><br>
+</p>
 
 Some custom skins for gamepadviewer.com
 
@@ -10,25 +12,31 @@ Rather than changing everything per CSS, the SVGs were changed for more control 
 
 ## Skins:
 
-<img src="https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/Controller.png" align="left" height="80">
+<p align="center">
+  <b><a href="https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2Ftransparent-green%2Fstyle.css" alt="GamepadViewer.com">(Transparent) Green & Copper</a></b><br><br>
+  <img src="https://lethalmaus.github.io/GamepadViewerSkins/transparent-green/Controller.png" height="300"><br><br>
+  Used by: <a href="https://twitch.tv/lethalmaus" alt="Twitch">LethalMaus</a>
+</p>
 
-### [(Transparent) Green & Copper](https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2Ftransparent-green%2Fstyle.css "GamepadViewer.com")
+---
 
-Used by: [LethalMaus](https://twitch.tv/lethalmaus "Twitch")
+<p align="center">
+  <b><a href="https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2Fjjegel-unique%2Fstyle.css" alt="GamepadViewer.com">jjegel-unique</a>
+ & <a href="https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2Fjjegel%2Fstyle.css" alt="GamepadViewer.com">jjegel</a></b><br><br>
+  <img src="https://lethalmaus.github.io/GamepadViewerSkins/jjegel-unique/Controller.png" height="200">
+  <img src="https://lethalmaus.github.io/GamepadViewerSkins/jjegel/Controller.png" height="200"><br><br>
+  Used by: <a href="https://twitch.tv/jjegel" alt="Twitch">jjegel</a>
+</p>
 
-<img src="https://lethalmaus.github.io/GamepadViewerSkins/jjegel-unique/Controller.png" align="left" height="80">
-<img src="https://lethalmaus.github.io/GamepadViewerSkins/jjegel/Controller.png" align="left" height="80">
+---
 
-### [jjegel-unique](https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2Fjjegel-unique%2Fstyle.css "GamepadViewer.com") & [jjegel](https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2Fjjegel%2Fstyle.css "GamepadViewer.com")
-
-Used by: [jjegel](https://twitch.tv/jjegel "Twitch")
-
-<img src="https://lethalmaus.github.io/GamepadViewerSkins/xJoshwx-unique/Controller.png?" align="left" height="80">
-<img src="https://lethalmaus.github.io/GamepadViewerSkins/xJoshwx/Controller.png?" align="left" height="80">
-
-### [xJoshwx-unique](https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2FxJoshwx-unique%2Fstyle.css "GamepadViewer.com") & [xJoshwx](https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2FxJoshwx%2Fstyle.css "GamepadViewer.com")
-
-Used by: [xJoshwx](https://twitch.tv/xJoshwx "Twitch")
+<p align="center">
+  <b><a href="https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2FxJoshwx-unique%2Fstyle.css" alt="GamepadViewer.com">xJoshwx-unique</a>
+ & <a href="https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2FxJoshwx%2Fstyle.css" alt="GamepadViewer.com">xJoshwx</a></b><br><br>
+  <img src="https://lethalmaus.github.io/GamepadViewerSkins/xJoshwx-unique/Controller.png?" height="200">
+  <img src="https://lethalmaus.github.io/GamepadViewerSkins/xJoshwx/Controller.png?" height="200"><br><br>
+  Used by: <a href="https://twitch.tv/xJoshwx" alt="Twitch">xJoshwx</a>
+</p>
 
 ---
 
