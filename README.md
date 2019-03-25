@@ -31,11 +31,11 @@ Rather than changing everything per CSS, the SVGs were changed for more control 
 ---
 
 <p align="center">
-  <b><a href="https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2FxJoshwx-unique%2Fstyle.css" alt="GamepadViewer.com">xJoshwx-unique</a>
- & <a href="https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2FxJoshwx%2Fstyle.css" alt="GamepadViewer.com">xJoshwx</a></b><br><br>
-  <img src="https://lethalmaus.github.io/GamepadViewerSkins/xJoshwx-unique/Controller.png?" width="240">
-  <img src="https://lethalmaus.github.io/GamepadViewerSkins/xJoshwx/Controller.png?" width="240"><br><br>
-  Used by: <a href="https://twitch.tv/xJoshwx" alt="Twitch">xJoshwx</a>
+  <b><a href="https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2FJdub_RL-unique%2Fstyle.css" alt="GamepadViewer.com">Jdub_RL-unique</a>
+ & <a href="https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2FJdub_RL%2Fstyle.css" alt="GamepadViewer.com">Jdub_RL</a></b><br><br>
+  <img src="https://lethalmaus.github.io/GamepadViewerSkins/Jdub_RL-unique/Controller.png?" width="240">
+  <img src="https://lethalmaus.github.io/GamepadViewerSkins/Jdub_RL/Controller.png?" width="240"><br><br>
+  Used by: <a href="https://twitch.tv/Jdub_RL" alt="Twitch">Jdub_RL</a>
 </p>
 
 ---
