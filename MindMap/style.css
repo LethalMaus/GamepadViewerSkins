@@ -1,0 +1,75 @@
+.controller.ds4 {
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/base.svg);
+}
+
+.ds4.disconnected {
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/disconnected.svgz);
+}
+
+.ds4 .trigger {
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/triggers.svgz);
+}
+
+.ds4 .bumper {
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/bumper.svgz) no-repeat;
+}
+
+.ds4 .touchpad.pressed {
+    background: url(phttps://lethalmaus.github.io/GamepadViewerSkins/jjegel/touchpad.svgz) no-repeat center;
+}
+
+.ds4 .meta.pressed {
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/meta.svgz) no-repeat center;
+}
+
+.ds4 .back, .ds4 .start {
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/start.svgz);
+}
+/* This is causing all buttons to be the same...
+.ds4 .button {
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/face.svgz);
+}
+*/
+.ds4 .stick {
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/sticks.svgz);
+}
+
+.ds4 .face {
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/dpad.svgz);
+}
+
+.controller.ds4.white {
+    background-image: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/base.svg);
+}
+
+.ds4.white.disconnected {
+    background: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/disconnected.svgz);
+}
+
+.ds4.white .trigger {
+    background-image: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/triggers.svgz);
+}
+
+.ds4.white .bumper {
+    background-image: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/bumper.svgz);
+}
+
+.ds4.white .touchpad.pressed {
+    background-image: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/touchpad.svgz);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/start.svgz);
+}
+
+.ds4.white .button {
+    background-image: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/face.svgz);
+}
+
+.ds4.white .stick {
+    background-image: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/sticks.svgz);
+}
+
+.ds4.white .face {
+    background-image: url(https://lethalmaus.github.io/GamepadViewerSkins/jjegel/dpad.svgz);
+}
