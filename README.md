@@ -40,6 +40,16 @@ Rather than changing everything per CSS, the SVGs were changed for more control 
 
 ---
 
+<p align="center">
+  <b><a href="https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2Fkdence-unique%2Fstyle.css" alt="GamepadViewer.com">kdence-unique</a>
+ & <a href="https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Flethalmaus.github.io%2FGamepadViewerSkins%2Fkdence%2Fstyle.css" alt="GamepadViewer.com">kdence</a></b><br><br>
+  <img src="https://lethalmaus.github.io/GamepadViewerSkins/kdence-unique/Controller.png?" width="240">
+  <img src="https://lethalmaus.github.io/GamepadViewerSkins/kdence/Controller.png?" width="240"><br><br>
+  Used by: <a href="https://twitch.tv/kdence" alt="Twitch">kdence</a>
+</p>
+
+---
+
 ## Contact
 
 If you would like me to do a style, just let me know.
